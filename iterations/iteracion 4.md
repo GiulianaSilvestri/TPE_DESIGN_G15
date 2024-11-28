@@ -2,7 +2,7 @@
 
 | Aspecto| Descripción |
 |------|-------------|
-| Drivers Seleccionados |   - Asignar rutas a los camiones de reparto y optimizarlas en función de la demora.<br> - Permitir el uso de dos algoritmos de optimización para calcular las rutas más eficientes. - Rendimiento en la optimización de rutas.|
+| Drivers Seleccionados |   - Asignar rutas a los camiones de reparto y optimizarlas en función de la demora.<br> - Permitir el uso de dos algoritmos de optimización para calcular las rutas más eficientes. <br> - Rendimiento en la optimización de rutas.|
 | Objetivo de la Iteración | Optimizar y asignar rutas de reparto de manera eficiente. |
 | Elemento a refinar | Microservicio de Reparto y Rutas. |
 | Elección de Conceptos de Diseño |   <ul><li> **Increase Efficiency**: para almacenar resultados recientes de optimización, especialmente para rutas repetidas. </li><li> **Strategy**: para implementar cada algoritmo de optimización como una estrategia intercambiable, y permitir la seleccion del algoritmo en tiempo de ejecución basándose en las demoras de los camiones.</li></ul>|
