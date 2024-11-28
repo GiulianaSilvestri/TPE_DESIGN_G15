@@ -24,7 +24,7 @@ El sistema de la compañía de productos alimenticios se ha desarrollado con una
 
 ## Resultado de la decisión
 
-Migrar el sistema de una arquitectura monolítica a una arquitectura de microservicios, porque permite el desacoplamiento entre los distintos módulos del sistema, adaptándose mejor a los drivers.
+Migrar el sistema de una [arquitectura monolítica](https://github.com/GiulianaSilvestri/TPE_DESIGN_G15/blob/main/Architecture/Arquitectura_inicial.png) a una [arquitectura de microservicios](https://github.com/GiulianaSilvestri/TPE_DESIGN_G15/blob/main/diagrams/it1_view_components.png), porque permite el desacoplamiento entre los distintos módulos del sistema, adaptándose mejor a los drivers.
 
 
 ### Consecuencias
